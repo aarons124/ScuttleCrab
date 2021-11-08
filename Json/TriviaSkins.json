@@ -1,0 +1,52 @@
+{
+  "skins": [
+    {
+      "correctName": "Aatrox Justiciero",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_1.jpg"
+    },
+    {
+      "correctName": "Aatrox Mecha",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_2.jpg"
+    },
+    {
+      "correctName": "Alistar Dorado",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_2.jpg"
+    },
+    {
+      "correctName": "Alistar Desencadenado",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_5.jpg"
+    },
+    {
+      "correctName": "Maestro Yi Espada Cósmica",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_10.jpg"
+    },
+    {
+      "correctName": "Maestro Yi PsyOps",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_33.jpg"
+    },
+    {
+      "correctName": "Yasuo True Damage",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_18.jpg"
+    },
+    {
+      "correctName": "Yasuo Portador del Anochecer",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_9.jpg"
+    },
+    {
+      "correctName": "Malphite Trébol",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_1.jpg"
+    },
+    {
+      "correctName": "Malphite de los Arrecifes",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_23.jpg"
+    },
+    {
+      "correctName": "Diana Matadragones",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_18.jpg"
+    },
+    {
+      "correctName": "Diana Centinela",
+      "url": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_27.jpg"
+    }
+  ]
+}
