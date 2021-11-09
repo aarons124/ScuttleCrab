@@ -47,4 +47,4 @@ deleteprefix, setprefix
 
 # 💜 Invite me
 
-If you want to invite me [click here](https://invite.scuttlecrab.ml/) and enjoy me!
+If you want to invite me [click here](https://discord.com/api/oauth2/authorize?client_id=855554329897336852&permissions=277330906608&scope=bot%20applications.commands) and enjoy me!
