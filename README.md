@@ -9,17 +9,17 @@ This also has more variety of commands, below you can see them.
 
 # 🔰 About Me
 
-The project started 6 months ago when my main developer `(Fabrizio#1663)` started to be interested in the use of APIs in Discord Bots, following this, he decided to tell about this project to his great friend `Kirzu~#3444` and he agreed to help him and so I became what I am now.
+The project started 6 months ago when my main developer `(TheEaterOfSouls#1663)` started to be interested in the use of APIs in Discord Bots, following this, he decided to tell about this project to his great friend `Kirzu~#3444` and he agreed to help him and so I became what I am now.
 
 ## ⚡ Commands
 
     					Congratulations! 🥳
     		        You have reached the section of my commands.
 
-### 🎮 League Of Legends [10]
+### 🎮 League Of Legends [6]
 
 ```
-build, champ-rotation, champion, mastery, matchlist, patch, profile, sale, setprofile, summonericon
+build, champ-rotation, champion, matchlist, profile, icon
 ```
 
 ### 🎵 Music [17]
@@ -28,22 +28,21 @@ build, champ-rotation, champion, mastery, matchlist, patch, profile, sale, setpr
 clearqueue, forceskip, jump, loop, nowplaying, pause, play, queue, remove, restart, resume, seek, shuffle, skip, stop, unshuffle, volume
 ```
 
-### 🎃 Utility [13]
+### 🎃 Utility [9]
 
 ```
-avatar, emojilist, getbotinvite, help, invite, ping, rolelist, servericon, snipe, stats, twemoji, userinfo, vote
+avatar, emojilist, help, invite, ping, rolelist, vote, support, stats
 ```
 
-### 🔧 Settings [2]
+### 🔧 Settings [1]
 
 ```
-deleteprefix, setprefix
+setprefix
 ```
 
 # 🌐Website
 
 `Main Page` [Click here](https://scuttlecrab.ml/)
-`Commands (Beta)` [Click here](https://scuttlecrab.ml/commands.html)
 
 # 💜 Invite me
 
